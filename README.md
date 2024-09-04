@@ -80,3 +80,8 @@ knightMoves([3, 3], [4, 3]);
 // [5, 4]
 // [3, 5]
 // [4, 3]
+```
+
+## Demo
+
+![demo](/demo/demo.png)
